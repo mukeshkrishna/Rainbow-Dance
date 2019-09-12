@@ -1,5 +1,5 @@
 step left
 step right
 Jump up and down 
-turn your dance
+twirl your hand
 Do the Rainbow Dance.

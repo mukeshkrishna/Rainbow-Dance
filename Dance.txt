@@ -1,7 +1,7 @@
 step left
 step right
 Jump up and down 
-twirl your hand.
+twirl your hand. Hi
 Do the Rainbow Dance!.
 This a sample fork.
 This is a sample fork 2.
